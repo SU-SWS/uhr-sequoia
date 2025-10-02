@@ -1,0 +1,7 @@
+# deal with ignoring or not  bin, vendor, phpstorm files...
+.idea
+.idea/**
+bin/
+.yarn
+node_modules
+css
